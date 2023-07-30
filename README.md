@@ -18,4 +18,4 @@ We consider statistical techniques and models such as:
 * Splines - Regression Splines, Natural Splines, and Smoothing Splines.
 
 **Project**
-R and R Markdown were used for the coding and the creation of the project which can be found here [Linear and Non-Linear Regression Analysis of Motorcycle Data](https://rpubs.com/Saidat/Linear_and_Non_Linear_Regression_Analysis)
+R and R Markdown were used for the coding and the creation of the project which can be found here: [Linear and Non-Linear Regression Analysis of Motorcycle Data](https://rpubs.com/Saidat/Linear_and_Non_Linear_Regression_Analysis)
