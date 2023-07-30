@@ -17,5 +17,10 @@ We consider statistical techniques and models such as:
 * Fifth-degree Polynomial Model
 * Splines - Regression Splines, Natural Splines, and Smoothing Splines.
 
+**Main Findings**
+
+The linear regression model does not provide a good fit for the dataset because the relationship between the variables is nonlinear. The quadratic and the fifth-degree polynomial fits do not do a good job either, but the natural spline and the smoothing spline with df=12.74 provide the best fit for the dataset. In addition, the smoothing spline is smoother and less wiggly.
+
 **Project**
+
 R and R Markdown were used for the coding and the creation of the project which can be found here: [Linear and Non-Linear Regression Analysis of Motorcycle Data](https://rpubs.com/Saidat/Linear_and_Non_Linear_Regression_Analysis)
