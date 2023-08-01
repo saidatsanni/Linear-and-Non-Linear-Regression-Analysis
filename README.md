@@ -1,11 +1,11 @@
 # Linear and Non-Linear Regression Analysis
 
-This study focuses on the analysis of motorcycle data. This data is available in the "MASS" package in R.
+This study focuses on the analysis of motorcycle data using linear and nonlinear methods. This data is available in the "MASS" package in R.
 
 
 **Goal:** 
 
-To explore the data, understand if the data shows a linear or nonlinear relationship, and identify the best model that fits the data with good prediction accuracy. 
+Explore the data, understand if the data shows a linear or nonlinear relationship, and identify the best model that fits the data with good prediction accuracy. 
 
 
 **Statistical Techniques**
